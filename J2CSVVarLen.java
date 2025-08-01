@@ -29,7 +29,7 @@
  *      - Jackson Databind
  *
  *  License:
- *      MIT License
+ *      Apache License
  *
  *  Author:
  *      Tanmay Udaywal
